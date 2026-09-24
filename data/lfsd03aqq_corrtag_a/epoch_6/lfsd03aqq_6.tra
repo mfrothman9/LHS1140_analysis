@@ -1,0 +1,144 @@
+CALCOS version 3.6.2
+numpy version 2.5.2
+astropy version 7.2.0
+Don't add simulated wavecal because association has no exp_swave members
+Shifting to -349, -3
+Shifting to -348, -3
+Shifting to -346, -3
+Shifting to -349, -2
+Shifting to -348, -2
+Shifting to -346, -2
+Shifting to -349, -1
+Shifting to -348, -1
+Shifting to -346, -1
+Shifting to -349, 0
+Shifting to -348, 0
+Shifting to -346, 0
+Shifting to -349, 1
+Shifting to -348, 1
+Shifting to -346, 1
+Shifting to -349, 2
+Shifting to -348, 2
+Shifting to -346, 2
+Calculating centroid
+Lower wavelength limit of 900.000000 corresponds to column -31220
+Upper wavelength limit of 2100.000000 corresponds to column 89259
+Starting center = 580.154053
+815 good columns
+Background regions are from 480 to 514
+and from 670 to 698
+Adopted background in science data = 0.000295
+Centroid = 588.246683
+832 good columns
+Background regions are from 488 to 522
+and from 678 to 698
+Adopted background in science data = 0.000247
+Centroid = 598.870054
+823 good columns
+Background regions are from 499 to 533
+and from 689 to 698
+Adopted background in science data = 0.000129
+Centroid = 613.231615
+12179 good columns
+Background regions are from 513 to 547
+and from 703 to 698
+Adopted background in science data = nan
+Centroid = nan
+CALCOS version 3.6.2
+numpy version 2.5.2
+astropy version 7.2.0
+Don't add simulated wavecal because association has no exp_swave members
+Shifting to -349, -3
+Shifting to -348, -3
+Shifting to -346, -3
+Shifting to -349, -2
+Shifting to -348, -2
+Shifting to -346, -2
+Shifting to -349, -1
+Shifting to -348, -1
+Shifting to -346, -1
+Shifting to -349, 0
+Shifting to -348, 0
+Shifting to -346, 0
+Shifting to -349, 1
+Shifting to -348, 1
+Shifting to -346, 1
+Shifting to -349, 2
+Shifting to -348, 2
+Shifting to -346, 2
+Calculating centroid
+Lower wavelength limit of 900.000000 corresponds to column -31220
+Upper wavelength limit of 2100.000000 corresponds to column 89259
+Starting center = 580.154053
+815 good columns
+Background regions are from 480 to 514
+and from 670 to 698
+Adopted background in science data = 0.000221
+Centroid = 585.345870
+832 good columns
+Background regions are from 485 to 519
+and from 675 to 698
+Adopted background in science data = 0.000293
+Centroid = 574.793978
+815 good columns
+Background regions are from 475 to 509
+and from 665 to 698
+Adopted background in science data = 0.000187
+Centroid = 586.886903
+832 good columns
+Background regions are from 487 to 521
+and from 677 to 698
+Adopted background in science data = 0.000283
+Centroid = 572.881823
+3035 good columns
+Background regions are from 473 to 507
+and from 663 to 697
+Adopted background in science data = 0.000185
+Centroid = 583.265495
+Warning:  Centroid calculation did not converge
+Warning:  after 5 iterations
+Background regions are from 473 to 507
+and from 663 to 697
+Error on centroid = 9.548934
+Warning:  Error on flux-weighted centroid > 0.800000
+Using profile reference file D:\Research\crds\references\hst\cos\a3v16412l_profile.fits
+Input Reference centroid = 580.154053, row_0 = 404
+Adopted background regions for reference profile:
+Rows 76 to 110, and rows 266 to 300
+Background = 0.000000
+Measured reference centroid = 582.2623589453103
+Input Reference centroid = 582.262359, row_0 = 404
+Adopted background regions for reference profile:
+Rows 78 to 112, and rows 268 to 302
+Background = 0.000000
+Measured reference centroid = 582.2623589453103
+Reference centroid calculation converged
+Using offset of +2.108306 calculated using
+initial reference file aperture center
+Shifting to -349, -3
+Shifting to -348, -3
+Shifting to -346, -3
+Shifting to -349, -2
+Shifting to -348, -2
+Shifting to -346, -2
+Shifting to -349, -1
+Shifting to -348, -1
+Shifting to -346, -1
+Shifting to -349, 0
+Shifting to -348, 0
+Shifting to -346, 0
+Shifting to -349, 1
+Shifting to -348, 1
+Shifting to -346, 1
+Shifting to -349, 2
+Shifting to -348, 2
+Shifting to -346, 2
+Warning:  spt file not found, so TIMELINE extension is incomplete
+Extraction algorithm = TWOZONE
+Two-zone extraction method
+Using profile centroid of 582.262359
+Calculating background for reference profile
+Using extraction percentiles of:
+0.500000 and 99.500000 (outer region)
+and 10.000000 and 90.000000 (inner region)
+Warning:  TDS correction was extrapolated.
