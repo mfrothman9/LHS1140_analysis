@@ -1,0 +1,84 @@
+CALCOS version 3.6.2
+numpy version 2.5.2
+astropy version 7.2.0
+Don't add simulated wavecal because association has no exp_swave members
+Shifting to -349, -3
+Shifting to -348, -3
+Shifting to -346, -3
+Shifting to -349, -2
+Shifting to -348, -2
+Shifting to -346, -2
+Shifting to -349, -1
+Shifting to -348, -1
+Shifting to -346, -1
+Shifting to -349, 0
+Shifting to -348, 0
+Shifting to -346, 0
+Shifting to -349, 1
+Shifting to -348, 1
+Shifting to -346, 1
+Shifting to -349, 2
+Shifting to -348, 2
+Shifting to -346, 2
+Calculating centroid
+Lower wavelength limit of 900.000000 corresponds to column -31220
+Upper wavelength limit of 2100.000000 corresponds to column 89259
+Starting center = 580.154053
+815 good columns
+Background regions are from 480 to 514
+and from 670 to 698
+Adopted background in science data = 0.000298
+Centroid = 597.549581
+823 good columns
+Background regions are from 498 to 532
+and from 688 to 698
+Adopted background in science data = 0.000255
+Centroid = 610.187713
+12197 good columns
+Background regions are from 510 to 544
+and from 700 to 698
+Adopted background in science data = nan
+Centroid = nan
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_1_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_2_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_3_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_4_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_5_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_6_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_7_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_8_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_9_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_10_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_11_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_12_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_13_corrtag_b.fits written
+D:\Research\LHS1140_flare_analysis\_V-LHS-1140\COS\G130_obs\splittag_output\exposure_172s\lfsd03aqq_corrtag_b\lfsd03aqq_14_corrtag_b.fits written
+CALCOS version 3.6.2
+numpy version 2.5.2
+astropy version 7.2.0
+Begin 22-Sep-2026 16:44:47 Mountain Daylight Time
+Don't add simulated wavecal because association has no exp_swave members
+Shifting to -349, -4
+Shifting to -348, -4
+Shifting to -346, -4
+Shifting to -349, -3
+Shifting to -348, -3
+Shifting to -346, -3
+Shifting to -349, -2
+Shifting to -348, -2
+Shifting to -346, -2
+Shifting to -349, -1
+Shifting to -348, -1
+Shifting to -346, -1
+Shifting to -349, 0
+Shifting to -348, 0
+Shifting to -346, 0
+Warning:  spt file not found, so TIMELINE extension is incomplete
+Extraction algorithm = TWOZONE
+Two-zone extraction method
+Using profile centroid of 642.905943
+Calculating background for reference profile
+Using extraction percentiles of:
+0.500000 and 99.500000 (outer region)
+and 10.000000 and 90.000000 (inner region)
+Warning:  TDS correction was extrapolated.

@@ -1,0 +1,114 @@
+CALCOS version 3.6.2
+numpy version 2.5.2
+astropy version 7.2.0
+Don't add simulated wavecal because association has no exp_swave members
+Shifting to -71, -2
+Shifting to -70, -2
+Shifting to -68, -2
+Shifting to -71, -1
+Shifting to -70, -1
+Shifting to -68, -1
+Shifting to -71, 0
+Shifting to -70, 0
+Shifting to -68, 0
+Shifting to -71, 1
+Shifting to -70, 1
+Shifting to -68, 1
+Shifting to -71, 2
+Shifting to -70, 2
+Shifting to -68, 2
+Calculating centroid
+Lower wavelength limit of 900.000000 corresponds to column -31220
+Upper wavelength limit of 2100.000000 corresponds to column 89259
+Starting center = 580.154053
+1059 good columns
+Background regions are from 480 to 514
+and from 670 to 698
+Adopted background in science data = 0.000099
+Centroid = 586.681337
+1076 good columns
+Background regions are from 487 to 521
+and from 677 to 698
+Adopted background in science data = 0.000110
+Centroid = 595.054560
+1067 good columns
+Background regions are from 495 to 529
+and from 685 to 698
+Adopted background in science data = 0.000092
+Centroid = 608.865200
+12200 good columns
+Background regions are from 509 to 543
+and from 699 to 698
+Adopted background in science data = nan
+Centroid = nan
+CALCOS version 3.6.2
+numpy version 2.5.2
+astropy version 7.2.0
+Don't add simulated wavecal because association has no exp_swave members
+Shifting to -71, -2
+Shifting to -70, -2
+Shifting to -68, -2
+Shifting to -71, -1
+Shifting to -70, -1
+Shifting to -68, -1
+Shifting to -71, 0
+Shifting to -70, 0
+Shifting to -68, 0
+Shifting to -71, 1
+Shifting to -70, 1
+Shifting to -68, 1
+Shifting to -71, 2
+Shifting to -70, 2
+Shifting to -68, 2
+Calculating centroid
+Lower wavelength limit of 900.000000 corresponds to column -31220
+Upper wavelength limit of 2100.000000 corresponds to column 89259
+Starting center = 580.154053
+1059 good columns
+Background regions are from 480 to 514
+and from 670 to 698
+Adopted background in science data = 0.000000
+Centroid = 551.000000
+Centroid shift too big
+Background regions are from 480 to 514
+and from 670 to 698
+Error on centroid = 0.000000
+Using profile reference file D:\Research\crds\references\hst\cos\a3v16412l_profile.fits
+Input Reference centroid = 580.154053, row_0 = 404
+Adopted background regions for reference profile:
+Rows 76 to 110, and rows 266 to 294
+Background = 0.000000
+Measured reference centroid = 582.3053968056189
+Input Reference centroid = 582.305397, row_0 = 404
+Adopted background regions for reference profile:
+Rows 78 to 112, and rows 268 to 296
+Background = 0.000000
+Measured reference centroid = 582.3053968056189
+Reference centroid calculation converged
+Using offset of +2.151344 calculated using
+initial reference file aperture center
+Shifting to -71, -2
+Shifting to -70, -2
+Shifting to -68, -2
+Shifting to -71, -1
+Shifting to -70, -1
+Shifting to -68, -1
+Shifting to -71, 0
+Shifting to -70, 0
+Shifting to -68, 0
+Shifting to -71, 1
+Shifting to -70, 1
+Shifting to -68, 1
+Shifting to -71, 2
+Shifting to -70, 2
+Shifting to -68, 2
+Warning:  Number of rows in TIMELINE extension is 25, expected 26,
+    so TIMELINE table will not be updated.
+Extraction algorithm = TWOZONE
+Two-zone extraction method
+Using profile centroid of 582.305397
+Calculating background for reference profile
+Using extraction percentiles of:
+0.500000 and 99.500000 (outer region)
+and 10.000000 and 90.000000 (inner region)
+Warning:  TDS correction was extrapolated.
